@@ -32,3 +32,5 @@ Developed a dashboard using Tableau that displays the data summary and results o
 * Which customer segment has the highest customer value?
 * What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 * What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+
+## References
