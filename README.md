@@ -1,4 +1,4 @@
-# KPMG-Data-Analytics-Virtual-Internship
+# KPMG Data Analytics Virtual Internship
 
 The [KPMG Data Analytics Virtual Internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=MJvCdpjrnuozuJWcn) is designed to help us gain a practical insight into the work done at KPMG and it is an opportunity for us to build our career skills and experience.
 
@@ -34,3 +34,4 @@ Developed a dashboard using Tableau that displays the data summary and results o
 * What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
 ## References
+KPMG. (2023). Data Analytics. [Forage](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=MJvCdpjrnuozuJWcn).
